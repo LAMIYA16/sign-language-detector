@@ -1,4 +1,4 @@
-# 🤟 Real-Time Sign Language Detection
+#  Real-Time Sign Language Detection
 
 A real-time sign language detection system built using a Convolutional Neural Network (CNN) with TensorFlow, OpenCV, and a Streamlit-based web interface. This project detects American Sign Language (ASL) alphabets from live webcam input.
 
@@ -6,10 +6,10 @@ A real-time sign language detection system built using a Convolutional Neural Ne
 
 ## 🚀 Features
 
-- 📷 Real-time hand gesture detection via webcam  
-- 🧠 Deep learning model trained on ASL Alphabet dataset  
-- 🌐 Simple and interactive Streamlit web interface  
-- 🛠️ Modular codebase for easy development and deployment  
+-  Real-time hand gesture detection via webcam  
+-  Deep learning model trained on ASL Alphabet dataset  
+-  Simple and interactive Streamlit web interface  
+-  Modular codebase for easy development and deployment  
 
 ---
 
@@ -54,18 +54,17 @@ sign-language-detector/
 
 - The predicted ASL alphabet is displayed on-screen in real-time.
 
-  ## Training the Model
-
-  python train_model.py
+## Training the Model
+     python train_model.py
 ## Run the Application
-streamlit run app.py
+    streamlit run app.py
 
 ## Dataset
 
 - ASL Alphabet Dataset:
 
-- 
-🔗 Download from Kaggle
+  
+🔗 Download from Kaggle 
 
 ## Improvements Needed:
 - Add support for real ASL words (using WLASL dataset)
