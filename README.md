@@ -24,7 +24,7 @@ sign-language-detector/
 ├── real_time_detection.py # Real-time prediction backend using webcam
 
 
-├── train_model.py # Script to train the CNN model
+├── train_model.py # Script to train the model
 
 
 ├── model/
@@ -50,7 +50,7 @@ sign-language-detector/
 
 - The camera captures hand gestures within a fixed rectangle.
 
-- The gesture is preprocessed and passed to the CNN model.
+- The gesture is preprocessed and passed to the model.
 
 - The predicted ASL alphabet is displayed on-screen in real-time.
 
