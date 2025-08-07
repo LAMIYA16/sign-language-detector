@@ -1,6 +1,6 @@
 #  Real-Time Sign Language Detection
 
-A real-time sign language detection system built using a Convolutional Neural Network (CNN) with TensorFlow, OpenCV, and a Streamlit-based web interface. This project detects American Sign Language (ASL) alphabets from live webcam input.
+A real-time sign language detection system built using TensorFlow, OpenCV, and a Streamlit-based web interface. This project detects American Sign Language (ASL) alphabets from live webcam input.
 
 ---
 
